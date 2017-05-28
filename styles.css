@@ -1,0 +1,36 @@
+* {
+	color: black;
+}
+
+body {
+	background-color: gray;
+}
+
+img {
+	width: 800px;
+}
+
+h2 {
+	background-color: white;
+	width: 800px;
+	height: 50px;
+	padding: 30px 40px 50px 10px;
+	border: 1px solid black;
+	margin: 20px 30px 40px 50px;
+	font-size: 5em;
+}
+
+li {
+	color: purple;
+	text-align: left;
+}
+
+.personal-info {
+	width: ;
+	background-color: pink;
+	color: blue;
+}
+
+.changing {
+	color: red;
+}
